@@ -10,7 +10,7 @@ Voter's Revenge has an informational wordpress site: [votersrevenge.info](https:
 ---
 This project is the vuejs front end used for non-administrative functions. It is used for browsing and joining posses, and taking and documenting activist pledges.
 
-The spec for this project is currently named *NOT DONE - SHARE - FE Reqs.pdf*, as it's, well, not done...
+The spec for this project is currently named [NOT DONE - SHARE - FE Reqs.pdf](https://github.com/sldev2/votersrevenge-frontend/blob/master/NOT%20DONE%20-%20SHARE%20-%20FE%20Reqs.pdf), as it's, well, not done...
 
 ## Project setup
 ```
